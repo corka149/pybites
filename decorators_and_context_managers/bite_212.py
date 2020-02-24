@@ -1,4 +1,4 @@
-from contextlib import suppress, nullcontext
+from contextlib import suppress
 
 
 def sum_numbers(numbers):
